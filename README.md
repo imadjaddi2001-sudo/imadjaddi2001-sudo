@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm JADDI Imad  
 
-<!--
-**imadjaddi2001-sudo/imadjaddi2001-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Student in Data & AI at EILCO – ULCO  
+🚀 Data Engineering & Machine Learning Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me  
+
+I am passionate about **Data Engineering, Artificial Intelligence, and Machine Learning**.  
+I enjoy working on data-driven projects, building intelligent systems, and continuously learning new technologies in the AI ecosystem.
+
+---
+
+## 🛠️ Skills  
+
+- 💻 Programming: Python, SQL  
+- 🤖 Machine Learning & Deep Learning  
+- 📊 Data Analysis & Visualization  
+- 🗄️ Databases & Data Engineering  
+- ⚙️ Tools: Git, GitHub, Jupyter, etc.
+
+---
+
+## 📫 Contact Me  
+
+- 🔗 LinkedIn: [imad-jaddi-743534244](https://www.linkedin.com/in/imad-jaddi-743534244)  
+- 📧 Email: imadjaddi2001@gmail.com  
+
+---
+
+⭐️ *Always learning, always building.*
