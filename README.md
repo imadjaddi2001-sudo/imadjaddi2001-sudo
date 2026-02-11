@@ -19,12 +19,7 @@
 
 ## 👨‍💻 About Me
 
-Passionate Data & AI graduate student specializing in **Data Engineering** and **Machine Learning**. I focus on building scalable data pipelines, developing intelligent systems, and transforming complex datasets into actionable insights.
 
-- 🔭 Currently working on **ML pipelines and Big Data solutions**
-- 🌱 Learning **MLOps and Cloud Architecture**
-- 💡 Interested in **AI Research and Innovation**
-- 🎯 Goal: **Build impactful data-driven solutions**
 
 <br clear="right"/>
 
