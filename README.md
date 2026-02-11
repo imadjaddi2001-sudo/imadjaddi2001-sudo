@@ -201,10 +201,6 @@ graph LR
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
-
-<br><br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" />
 
 </div>
