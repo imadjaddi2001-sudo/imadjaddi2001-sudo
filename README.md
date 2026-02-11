@@ -19,7 +19,10 @@
 
 ## 👨‍💻 About Me
 
-
+🔭 Currently working on ML pipelines and Big Data solutions
+🌱 Learning MLOps and Cloud Architecture
+💡 Interested in AI Research and Innovation
+🎯 Goal: Build impactful data-driven solutions
 
 <br clear="right"/>
 
