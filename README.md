@@ -2,14 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Imad%20JADDI&fontSize=70&fontAlignY=35&fontColor=ffffff&animation=fadeIn" />
 
-### 🎓 Master's Student in Data & AI at EILCO – ULCO
-### 🚀 Data Engineering & Machine Learning Enthusiast
+### 🎓 Master’s student in Data & AI at EILCO – ULCO
+### 📊 Data Analyst & Data Scientist | ML & Big Data Enthusiast
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imad-jaddi-743534244)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imadjaddi2001@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/YOUR_GITHUB_USERNAME](https://github.com/imadjaddi2001-sudo))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imadjaddi2001-sudo)
 
 </div>
 
@@ -19,10 +19,10 @@
 
 ## 👨‍💻 About Me
 
-🔭 Currently working on ML pipelines and Big Data solutions
-🌱 Learning MLOps and Cloud Architecture
-💡 Interested in AI Research and Innovation
-🎯 Goal: Build impactful data-driven solutions
+🔭 Currently building end-to-end data pipelines and ML models  
+🌱 Deepening my expertise in MLOps, Cloud Architecture, and Advanced Analytics  
+💡 Passionate about turning raw data into actionable insights  
+🎯 Goal: Become a versatile Data Scientist & Analyst, bridging the gap between data engineering and business intelligence
 
 <br clear="right"/>
 
@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
 
 ### 📊 Data Engineering & Big Data
@@ -46,15 +47,29 @@
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
-### 🤖 Machine Learning & AI
+### 📈 Data Science & Machine Learning
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
+
+### 📊 Data Visualization & BI
+<p>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
 ### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ### ☁️ Cloud & DevOps
@@ -65,13 +80,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 📈 Data Visualization
-<p>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
 ---
 
 ## 🎯 Areas of Expertise
@@ -80,122 +88,11 @@
 <tr>
 <td width="50%">
 
-### 📊 Data Engineering
+### 📊 Data Analysis & BI
 ```yaml
-- ETL Pipeline Development
-- Big Data Processing (Spark, Hadoop)
-- Data Warehousing Solutions
-- Stream Processing (Kafka)
-- Data Quality & Governance
-```
-
-</td>
-<td width="50%">
-
-### 🤖 Machine Learning
-```yaml
-- Deep Learning & Neural Networks
-- Natural Language Processing
-- Computer Vision
-- Predictive Analytics
-- Model Optimization
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ⚙️ MLOps
-```yaml
-- Model Deployment & Serving
-- CI/CD for ML Pipelines
-- Model Monitoring & Logging
-- A/B Testing
-- Feature Engineering
-```
-
-</td>
-<td width="50%">
-
-### 📈 Analytics
-```yaml
-- Business Intelligence
-- Statistical Analysis
-- Data Visualization
-- Dashboard Development
-- Reporting Automation
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## 📚 Current Learning Journey
-
-```mermaid
-graph LR
-    A[🎯 Current Focus] --> B[Deep Learning]
-    A --> C[MLOps]
-    A --> D[Cloud Architecture]
-    A --> E[Real-time Processing]
-    B --> F[Transformers]
-    B --> G[GANs]
-    C --> H[Kubernetes]
-    C --> I[Model Registry]
-    D --> J[AWS]
-    D --> K[Azure]
-    E --> L[Kafka Streams]
-    E --> M[Spark Streaming]
-    
-    style A fill:#667eea,stroke:#333,stroke-width:2px,color:#fff
-    style B fill:#764ba2,stroke:#333,stroke-width:2px,color:#fff
-    style C fill:#f093fb,stroke:#333,stroke-width:2px,color:#fff
-    style D fill:#4facfe,stroke:#333,stroke-width:2px,color:#fff
-    style E fill:#43e97b,stroke:#333,stroke-width:2px,color:#fff
-```
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" />
-</div>
-
----
-
-## 💼 Professional Opportunities
-
-<div align="center">
-
-| 🎯 Role | 🔍 Focus Areas |
-|---------|----------------|
-| **Data Engineer** | ETL Development • Data Pipeline Architecture • Big Data Solutions |
-| **ML Engineer** | Model Development • Production ML Systems • MLOps |
-| **Data Scientist** | Predictive Analytics • Statistical Modeling • AI Research |
-| **AI Engineer** | NLP • Computer Vision • Deep Learning Applications |
-
-</div>
-
-> 💡 **Status:** Actively seeking internship and full-time opportunities in Data Engineering, ML Engineering, and AI Research
-
----
-
----
-
-## 📫 Let's Connect!
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/imad-jaddi-743534244)
-[![Gmail](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:imadjaddi2001@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/imadjaddi2001-sudo)
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" />
-
-</div>
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis & Hypothesis Testing
+- Dashboard Design & Development
+- KPI Definition & Tracking
+- Business Intelligence Strategy
+- Data Storytelling & Reporting
