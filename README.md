@@ -2,8 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Imad%20JADDI&fontSize=70&fontAlignY=35&fontColor=ffffff&animation=fadeIn" />
 
-### 🎓 Master’s student in Data & AI at EILCO – ULCO
-### 📊 Data Analyst & Data Scientist | ML & Big Data Enthusiast
+### 🎓 Master’s student EILCO 
+### 📊 Data Analyst & Data Scientist | ML & Big Data 
 
 <br>
 
